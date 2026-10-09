@@ -7,7 +7,7 @@ Yabing Wang, Zhuotao Tian, Le Wang, Zheng Qi, Sanping Zhou
 
 Framework:
 
-<img src="docs\framework.pdf"/>
+<img src="docs\framework.png"/>
 
 ## Introduction
 3D Referring Expression segmentation (3D-RES) is an emerging field that segments 3D objects in point cloud
